@@ -12,3 +12,18 @@ D:\2 КУРС\2 сем\КПО\Calculator\SimpleCalculatorFactory\obj\Debug\Simpl
 D:\2 КУРС\2 сем\КПО\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.csproj.CoreCompileInputs.cache
 D:\2 КУРС\2 сем\КПО\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.exe
 D:\2 КУРС\2 сем\КПО\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.pdb
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\bin\Debug\SimpleCalculatorFactory.exe.config
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\bin\Debug\SimpleCalculatorFactory.exe
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\bin\Debug\SimpleCalculatorFactory.pdb
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.exe.config
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\MainWindow.baml
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\MainWindow.g.cs
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\App.g.cs
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory_MarkupCompile.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.g.resources
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.Properties.Resources.resources
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.csproj.GenerateResource.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.exe
+C:\Users\Ryzen\Calculator\SimpleCalculatorFactory\obj\Debug\SimpleCalculatorFactory.pdb
