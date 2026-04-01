@@ -3,13 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ryzen\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDD49E4-DC22-4F17-8DF6-EEEBD752CAB2}|..\\SimpleCalculatorMVVM\\SimpleCalculatorMVVM.csproj|c:\\users\\ryzen\\calculator\\simplecalculatormvvm\\viewmodel\\buttonfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F5CB7FB-0EF6-434B-A465-FE72B17944F9}|..\\SimpleCalculatorFactory\\SimpleCalculatorFactory.csproj|c:\\users\\ryzen\\calculator\\simplecalculatorfactory\\calculatorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DDD49E4-DC22-4F17-8DF6-EEEBD752CAB2}|..\\SimpleCalculatorMVVM\\SimpleCalculatorMVVM.csproj|c:\\users\\ryzen\\calculator\\simplecalculatormvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0DDD49E4-DC22-4F17-8DF6-EEEBD752CAB2}|..\\SimpleCalculatorMVVM\\SimpleCalculatorMVVM.csproj|c:\\users\\ryzen\\calculator\\simplecalculatormvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DDD49E4-DC22-4F17-8DF6-EEEBD752CAB2}|..\\SimpleCalculatorMVVM\\SimpleCalculatorMVVM.csproj|c:\\users\\ryzen\\calculator\\simplecalculatormvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DDD49E4-DC22-4F17-8DF6-EEEBD752CAB2}|..\\SimpleCalculatorMVVM\\SimpleCalculatorMVVM.csproj|c:\\users\\ryzen\\calculator\\simplecalculatormvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,34 +25,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwCsAAABBAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:33:14.764Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ButtonFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\ViewModel\\ButtonFactory.cs",
+              "RelativeDocumentMoniker": "..\\SimpleCalculatorMVVM\\ViewModel\\ButtonFactory.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\ViewModel\\ButtonFactory.cs",
+              "RelativeToolTip": "..\\SimpleCalculatorMVVM\\ViewModel\\ButtonFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:32:14.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\SimpleCalculatorMVVM\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\MainWindow.xaml",
-              "RelativeToolTip": "..\\SimpleCalculatorMVVM\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\SimpleCalculatorMVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "..\\SimpleCalculatorMVVM\\View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-31T19:04:38.294Z"
+              "WhenOpened": "2026-03-31T19:04:38.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\SimpleCalculatorMVVM\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\SimpleCalculatorMVVM\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:04:38.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\SimpleCalculatorMVVM\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorMVVM\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\SimpleCalculatorMVVM\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T19:04:38.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CalculatorLogic.cs",
               "DocumentMoniker": "C:\\Users\\Ryzen\\Calculator\\SimpleCalculatorFactory\\CalculatorLogic.cs",
               "RelativeDocumentMoniker": "..\\SimpleCalculatorFactory\\CalculatorLogic.cs",

@@ -1,0 +1,16 @@
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\View\App.g.cs
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM_MarkupCompile.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM_MarkupCompile.lref
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\bin\Debug\SimpleCalculatorMVVM.exe.config
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\bin\Debug\SimpleCalculatorMVVM.exe
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\bin\Debug\SimpleCalculatorMVVM.pdb
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.g.resources
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.Properties.Resources.resources
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.csproj.GenerateResource.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.exe
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.pdb
+C:\Users\Ryzen\Calculator\SimpleCalculatorMVVM\obj\Debug\SimpleCalculatorMVVM.exe.config
